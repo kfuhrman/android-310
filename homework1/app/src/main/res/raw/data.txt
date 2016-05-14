@@ -1,0 +1,51 @@
+Alabama	- AL - 1819 - Montgomery - Birmingham is the state's largest city.
+Alaska - AK - Juneau - Juneau is the largest capital by land area. Anchorage is the state's largest city.
+Arizona - AZ - 1912 - Phoenix - Phoenix is the most populous U.S. state capital and only capital with more than 1 million citizens.
+Arkansas - AR - 1836 - Little Rock	- North Little Rock offers one of the nation's largest municipal parks.
+California - CA - 1850 - Sacramento - The Supreme Court of California is headquartered in San Francisco. Los Angeles is the state's largest city.
+Colorado - CO - 1876 - Denver - Denver was called Denver City until 1882.
+Connecticut - CT - 1788 - Hartford - Bridgeport is the state's largest city, but Hartford is the largest metro area (Bridgeport is considered a satellite city of New York City).
+Delaware - DE - 1787 - Dover - Longest-serving capital in terms of statehood. Wilmington is the state's largest city.
+District of Columbia - DC - 1790 - Washington - District of Columbia is not a state, but rather a federal district. Included here for statistical purposes.
+Florida - FL - 1845 - Tallahassee - Jacksonville is the largest city, and Miami has the largest metro area.
+Georgia - GA - 1788 - Atlanta - Atlanta is the state capital with the most populous metro area in the U.S.
+Hawaii - HI - 1959 - Honolulu - Hawaii is the only state that grows coffee.
+Idaho - ID - 1890 - Boise - President Theodore Roosevelt established the Caribou National Forest in 1907. The area now covers more than 1 million acres in southeast Idaho.
+Illinois - IL - 1818 - Springfield - Chicago is the state's largest city.
+Indiana - IN - 1816 - Indianapolis - Indianapolis is the second largest city in the Midwest.
+Iowa - IA - 1846 - Des Moines - Dubuque is the state's oldest city.
+Kansas - KS - 1861 - Topeka - Wichita is the state's largest city, although the Kansas City metropolitan area is overall the largest in Kansas.
+Kentucky - KY - 1792 - Frankfort - Louisville is the state's largest city.
+Louisiana - LA - 1812 - Baton Rouge - New Orleans is the state's largest city and home to the Louisiana Supreme Court, although Baton Rouge is located in the state's most populous parish. Louisiana is home to the tallest state capitol building.
+Maine - ME - 1820 - Augusta - Augusta was officially made the capital 1827, but the legislature did not sit there until 1832. Portland is the state's largest city.
+Maryland - MD - 1788 - Annapolis - Annapolis the third-longest serving capital in the United States after Santa Fe and Boston. Its capitol building is the oldest still in use. It is also the smallest capital by land area. Baltimore is the state's largest city.
+Massachusetts - MA - 1788 - Boston - Boston is the longest continuously serving capital in the United States. The Boston-Worcester-Manchester Combined Statistical Area encompasses the state capitals of Massachusetts, New Hampshire, and Rhode Island.
+Michigan - MI - 1837 - Lansing - Lansing is the only state capital that is not also the county seat of the county in which it is situated (not counting the two state capitals that are independent cities and not located in any county). The county seat of Ingham County is Mason.[citation needed] Detroit is the state's largest city.
+Minnesota - MN - 1858 - Saint Paul - Minneapolis is the state's largest city; it and Saint Paul form the core of the state's largest metropolitan area.
+Mississippi - MS - 1817 - Jackson - Jackson is the only state capital that shares its status as county seat with another city (Raymond, Mississippi).
+Missouri - MO - 1821 - Jefferson City - Kansas City is the state's largest city, and Greater St. Louis is the state's largest metropolitan area.
+Montana - MT - 1889 - Helena - Billings is the state's largest city.
+Nebraska - NE - 1867 - Lincoln - Omaha is the state's largest city.
+Nevada - NV - 1864 - Carson City - Las Vegas is the state's largest city. Carson City is one of two independent cities that serves as a state capital.
+New Hampshire - NH - 1788 - Concord - Manchester is the state's largest city.
+New Jersey - NJ - 1787 - Trenton - Newark is the state's largest city, although Trenton is the center of the largest Metropolitan Statistical Area centered in New Jersey. Trenton served as the US capital for a short period in the late 18th century.
+New Mexico - NM - 1912 - Santa Fe - Santa Fe is the longest serving capital in the United States. El Paso del Norte served as the capital of the Santa Fe de Nuevo México colony-in-exile during the Pueblo Revolt of 1680–1692. Santa Fe has the highest elevation of any state capital. Albuquerque is the state's largest city.
+New York - NY - 1788 - Albany - New York City is the state's largest city.
+North Carolina - NC - 1789 - Raleigh - Charlotte is the state's largest city.
+North Dakota - ND - 1889 - Bismarck - Fargo is the state's largest city.
+Ohio - OH - 1803 - Columbus - Columbus is Ohio's largest city, and the third-largest state capital; however, the Cincinnati and Cleveland metropolitan areas are both slightly larger.
+Oklahoma - OK - 1907 - Oklahoma City - Oklahoma City is the shortest serving current state capital in the United States.
+Oregon - OR - 1859 - Salem - Portland is the state's largest city.
+Pennsylvania - PA - 1787 - Harrisburg - Philadelphia is the state's largest city.
+Rhode Island - RI - 1790 - Providence - Providence also served as the capital 1636–1686 and 1689–1776. It was one of five co-capitals 1776–1853, and one of two co-capitals 1853–1900.
+South Carolina - SC - 1788 - Columbia - Columbia is the largest city in South Carolina but second largest metro area and combined statistical area behind Greenville.
+South Dakota - SD - 1889 - Pierre - Sioux Falls is the state's largest city.
+Tennessee - TN - 1796 - Nashville - Memphis is the state's largest city, and Nashville is the largest metro area.
+Texas - TX - 1845 - Austin - Houston is the state's largest city and the previous capital, and Dallas–Fort Worth is the largest metro area. Austin is the largest state capital that is not also the state's largest city by population.
+Utah - UT - 1896 - Salt Lake City - Completion of the world's first transcontinental railroad was celebrated at Promontory where the Central Pacific and Union Pacific Railroads met on May 10, 1869. It is now known as Golden Spike National Historic Site.
+Vermont - VT - 1791 - Montpelier - Montpelier is the least populous U.S. state capital. Burlington is the state's largest city.
+Virginia - VA - 1788 - Richmond - Virginia Beach is the state's largest city, and Northern Virginia is the state's largest metro area. Richmond is one of two independent cities that serves as a state capital. Although Richmond is the county seat of Henrico County, it is not part of the county.
+Washington - WA - 1889 - Olympia - Seattle is the state's largest city.
+West Virginia - WV - 1863 - Charleston - Charleston is the smallest capital city that is still the most populous city in its state.
+Wisconsin - WI - 1848 - Madison - Milwaukee is the state's largest city.
+Wyoming - WY - 1890 - Cheyenne - Wyoming was the first state to give women the right to vote.
