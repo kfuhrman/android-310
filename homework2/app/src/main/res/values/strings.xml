@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1680635038863428</string>
+    <string name="title_hint">Title of your link</string>
+    <string name="description_hint">Description of your link</string>
+    <string name="url_hint">URL of your link</string>
+</resources>
